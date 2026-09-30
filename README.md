@@ -3,7 +3,7 @@
 ## Requirements
 
 #### Scale
-* Massive scale
+* Massive scale! 
 * IPv6
 * Entropy
 * Keep it simple
@@ -26,9 +26,10 @@
 * SLA
 * Security
 * Sovereignty
-* Service Chain
+* Service chain
 * Packet spraying
 * Load balancing
+* LLM routing
 * Path probing
 
 #### Supported in all domains and able to operate across all domains
@@ -38,14 +39,14 @@
 * IoT
 * WAN
 * Internet
-* SP Transport
+* SP transport
 * DC (frontend and backend)
 * Scale-up
 * Scale-out
 * Scale-across
 * Cloud
 * VPC/virtual networks
-* Transit Gateway, Ingress/Egress Gateway
+* Transit gateway, ingress/egress gateway
 * Host network stacks (Linux, Kubernetes)
 * SmartNICs
 * CNIs
@@ -53,5 +54,5 @@
 * Security appliances
 * Security services (SASE)
 * Distributed security fabric (Hypershield/Tetragon/eBPF)
-* Broadband and Mobile subscriber gateways (BNG, UPF)
+* Broadband and mobile subscriber gateways (BNG, UPF)
 * GTP replacement
