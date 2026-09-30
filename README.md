@@ -2,35 +2,36 @@
 
 ## Requirements
 
-IPv6
-
-Scale
+#### Scale
 * Massive scale
+* IPv6
+* Entropy
 * Keep it simple
 
-Segmentation/VPN
+#### Segmentation/VPN
 * L3VPN
 * L2VPN
 * Static / P2P tunnel
+* IPN (Isovalent Private Network) - Overlay that can span K8s and VMs
 
-Micro-segmentation
+#### Micro-segmentation
 * Security group
 * Identity
 
-Entropy
+#### Extensibility - I can do innovative things with my network
+* What service or capability do you wish your network could deliver?
 
-Extensibility - I can do innovative things with my network
-
-Path manipulation
+#### Path manipulation
 * TE
 * SLA
 * Security
 * Sovereignty
 * Service Chain
 * Packet spraying
+* Load balancing
 * Path probing
 
-Supported in all domains and able to operate across all domains
+#### Supported in all domains and able to operate across all domains
 * Campus
 * Branch
 * Access
@@ -44,6 +45,7 @@ Supported in all domains and able to operate across all domains
 * Scale-across
 * Cloud
 * VPC/virtual networks
+* Transit Gateway, Ingress/Egress Gateway
 * Host network stacks (Linux, Kubernetes)
 * SmartNICs
 * CNIs
